@@ -1,6 +1,6 @@
 # Flask Based Web Camera Server
 
-### A simple Flask server that streams webcam video from the client to the server over HTTP.
+### A simple Flask server that enables streaming webcam video over HTTP.
 
 ## Installation
 ### Type the following command in the terminal to install the required packages.
