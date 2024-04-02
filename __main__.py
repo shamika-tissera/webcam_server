@@ -17,5 +17,5 @@ def get_args():
 
 if __name__ == '__main__':
     args = get_args()
-    print(f"Attempting to start the server at http://{args.host}:{args.port}")
+    print(f"Access the video stream at http://{args.host}:{args.port}")
     waitress.serve(app, host=args.host, port=args.port)
