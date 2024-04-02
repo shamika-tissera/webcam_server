@@ -10,4 +10,4 @@
 3. Type the following command in the terminal to install the required packages.
 <br>```pip install -r requirements.txt```
 4. Type the following command in the terminal to run the server and use the specified host and port. The default host is ```127.0.0.1``` and the default port is ```1111```.
-<br>```python server.py --host <host> --port <port>```
+<br>```python webcam-server --host <host> --port <port>```
